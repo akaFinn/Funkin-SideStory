@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Zip Mod",
+            "type": "shell",
+            "command": "haxe --run scripts/ZipScript.hx",
+
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "title": "FNF': SideStory",
+    "description": "Unknown",
+    "homepage": "https://example.com",
+
+    "api_version": "0.8.4",
+    "mod_version": "0.1.0-beta",
+
+    "contributors": 
+    [
+        {"name": "akaFinn_", "role": "Director", "url": "https://x.com/akaFinn_"},
+        {"name": "MyKarm09", "role": "Insider / Tester", "url": "https://x.com/Mykarm09"}
+    ],
+
+    "license": "MIT"
+}
